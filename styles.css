@@ -66,12 +66,8 @@ main {
 }
 
 .hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 310px;
-  gap: 28px;
-  align-items: end;
-  min-height: 360px;
-  padding: 58px 0 38px;
+  min-height: 230px;
+  padding: 46px 0 34px;
   border-bottom: 1px solid var(--line);
 }
 
@@ -92,9 +88,9 @@ p {
 
 h1 {
   max-width: 780px;
-  margin-bottom: 18px;
-  font-size: clamp(3.1rem, 7vw, 6.8rem);
-  line-height: 0.94;
+  margin-bottom: 0;
+  font-size: clamp(2.25rem, 5vw, 4.4rem);
+  line-height: 0.98;
   letter-spacing: 0;
 }
 
@@ -105,96 +101,17 @@ h2 {
   letter-spacing: 0;
 }
 
-.lede {
-  max-width: 710px;
-  color: #304155;
-  font-size: clamp(1.05rem, 2vw, 1.28rem);
-}
-
-.notice {
-  max-width: 760px;
-  margin-bottom: 0;
-  border-left: 4px solid var(--green);
-  padding: 12px 16px;
-  background: var(--green-soft);
-  color: #4f431f;
-  font-size: 0.96rem;
-  font-weight: 600;
-}
-
-.hero-panel {
-  display: grid;
-  gap: 14px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 20px;
-  background: linear-gradient(180deg, #ffffff 0%, #f7fbfd 100%);
-  box-shadow: var(--shadow);
-}
-
-.hero-panel div {
-  display: grid;
-  gap: 3px;
-}
-
-.panel-label {
-  color: var(--muted);
-  font-size: 0.76rem;
-  font-weight: 800;
-  text-transform: uppercase;
-}
-
-.hero-panel strong {
-  font-size: 1.1rem;
-}
-
-.overview {
-  display: grid;
-  grid-template-columns: 0.95fr 1.4fr;
-  gap: 28px;
-  align-items: stretch;
-  padding: 36px 0 26px;
-}
-
-.summary-copy p,
 .section-heading p,
 .notes p {
   color: var(--muted);
   margin-bottom: 0;
 }
 
-.stats {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 12px;
-}
-
-.stat {
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 16px;
-  background: var(--paper);
-}
-
-.stat span {
-  display: block;
-  min-height: 2.7em;
-  color: var(--muted);
-  font-size: 0.82rem;
-  font-weight: 800;
-  text-transform: uppercase;
-}
-
-.stat strong {
-  display: block;
-  font-size: 2.05rem;
-  line-height: 1;
-}
-
 .legend {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 12px;
+  margin-top: 28px;
   padding: 16px;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -376,22 +293,12 @@ code {
 }
 
 @media (max-width: 900px) {
-  .hero,
-  .overview {
-    grid-template-columns: 1fr;
-  }
-
   .hero {
     min-height: auto;
     padding-top: 42px;
   }
 
-  .hero-panel {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .legend,
-  .stats {
+  .legend {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -408,12 +315,10 @@ code {
   }
 
   h1 {
-    font-size: clamp(2.55rem, 16vw, 4.25rem);
+    font-size: clamp(2.1rem, 11vw, 3.1rem);
   }
 
-  .hero-panel,
-  .legend,
-  .stats {
+  .legend {
     grid-template-columns: 1fr;
   }
 

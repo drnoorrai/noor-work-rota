@@ -4,7 +4,7 @@
 
 ## Legend
 
-- 🟦 **USE Timetable** — 09:00–17:00
+- 🟦 **Carlton Parade** — 09:00–17:00
 - 🟫 **Oxleas House Wards Nights** — 21:00–09:15
 - 🟨 **Green Parks House** — 2nd on / additional responsibility, usually overnight/on-call
 - ⚪ **Off / Recovery**
@@ -16,12 +16,12 @@
 | **May 11–17** | 🟫 Night | 🟫 Night | 🟫 Night | 🟫 Night | ⚪ Recovery | ⚪ Off | ⚪ Off |
 | **May 18–24** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
 | **May 25–31** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **Jun 1–7** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | 🟫 Night | 🟫 Night |
+| **Jun 1–7** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | 🟫 Oxleas House 09–21:15 | ⚪ Off |
 | **Jun 8–14** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
 | **Jun 15–21** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **Jun 22–28** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | 🟫 Night | 🟫 Night |
-| **Jun 29–Jul 5** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **Jul 6–12** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | ⚪ Off | ⚪ Off | 🟫 Night | 🟫 Night |
+| **Jun 22–28** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | 🟫 Oxleas House 09–21:15 |
+| **Jun 29–Jul 5** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟫 Night | 🟫 Night | ⚪ Off |
+| **Jul 6–12** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | ⚪ Off | 🟫 Night | 🟫 Night | 🟫 Night |
 | **Jul 13–19** | ⚪ Recovery | ⚪ Recovery | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
 | **Jul 20–26** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
 | **Jul 27–Aug 2** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
@@ -29,7 +29,7 @@
 
 ## Shareable Summary
 
-Usually working weekdays **09:00–17:00**, with recurring **Green Parks House additional responsibility / 2nd on** around Thursdays, and periodic **Oxleas House Wards night shifts 21:00–09:15**, followed by recovery/off-duty days.
+Usually working weekdays **09:00–17:00** at **Carlton Parade**, with recurring **Green Parks House additional responsibility / 2nd on** around Thursdays, periodic **Oxleas House Wards night shifts 21:00–09:15**, and selected **Oxleas House 09:00–21:15** shifts.
 
 ## Notes for Codex
 

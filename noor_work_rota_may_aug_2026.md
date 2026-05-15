@@ -4,9 +4,10 @@
 
 ## Legend
 
-- 🟦 **Carlton Parade** — 09:00–17:00
+- 🟦 **Carlton Parade** — 09:00–17:00, with Wednesdays shown as 09:00–13:00
 - 🟫 **Oxleas House Wards Nights** — 21:00–09:15
-- 🟨 **Green Parks House** — 2nd on / additional responsibility, usually overnight/on-call
+- 🟨 **Green Parks House** — Thursday 2nd on / additional responsibility, 13:00–17:00
+- 🟧 **Agile** — work from home, Fridays 09:00–17:00
 - ⚪ **Off / Recovery**
 
 ## One-Page Rota
@@ -14,22 +15,22 @@
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|---|
 | **May 11–17** | 🟫 Night | 🟫 Night | 🟫 Night | 🟫 Night | ⚪ Recovery | ⚪ Off | ⚪ Off |
-| **May 18–24** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **May 25–31** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **Jun 1–7** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | 🟫 Oxleas House 09–21:15 | ⚪ Off |
-| **Jun 8–14** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **Jun 15–21** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **Jun 22–28** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | 🟫 Oxleas House 09–21:15 |
-| **Jun 29–Jul 5** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟫 Night | 🟫 Night | ⚪ Off |
-| **Jul 6–12** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | ⚪ Off | 🟫 Night | 🟫 Night | 🟫 Night |
-| **Jul 13–19** | ⚪ Recovery | ⚪ Recovery | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **Jul 20–26** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
-| **Jul 27–Aug 2** | 🟦 09–17 | 🟦 09–17 | 🟦 09–17 | 🟨 Green Parks + 🟦 | 🟦 09–17 | ⚪ Off | ⚪ Off |
+| **May 18–24** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
+| **May 25–31** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
+| **Jun 1–7** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | 🟫 Oxleas House 09–21:15 | ⚪ Off |
+| **Jun 8–14** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
+| **Jun 15–21** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
+| **Jun 22–28** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | 🟫 Oxleas House 09–21:15 |
+| **Jun 29–Jul 5** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟫 Night | 🟫 Night | ⚪ Off |
+| **Jul 6–12** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | ⚪ Off | 🟫 Night | 🟫 Night | 🟫 Night |
+| **Jul 13–19** | ⚪ Recovery | ⚪ Recovery | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
+| **Jul 20–26** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
+| **Jul 27–Aug 2** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
 | **Aug 3–9** | ⚪ Bank Holiday / Off | 🟫 Night | 🟫 Night | ⚪ Recovery | ⚪ Recovery | ⚪ Off | ⚪ Off |
 
 ## Shareable Summary
 
-Usually working weekdays **09:00–17:00** at **Carlton Parade**, with recurring **Green Parks House additional responsibility / 2nd on** around Thursdays, periodic **Oxleas House Wards night shifts 21:00–09:15**, and selected **Oxleas House 09:00–21:15** shifts.
+Usually working weekdays **09:00–17:00** at **Carlton Parade**, with **Carlton Parade Wednesday mornings 09:00–13:00**, **Green Parks House Thursday afternoon 2nd on cover 13:00–17:00**, **Agile Fridays 09:00–17:00**, periodic **Oxleas House Wards night shifts 21:00–09:15**, and selected **Oxleas House 09:00–21:15** shifts.
 
 ## Notes for Codex
 

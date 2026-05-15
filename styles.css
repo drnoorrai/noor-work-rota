@@ -16,6 +16,8 @@
   --vacation-soft: #e5f6f1;
   --teaching: #8b5fbf;
   --teaching-soft: #f0eafd;
+  --agile: #47677d;
+  --agile-soft: #eaf1f5;
   --shadow: 0 18px 55px rgba(22, 32, 42, 0.08);
 }
 
@@ -174,6 +176,10 @@ h2 {
 
 .chip-teaching {
   background: var(--teaching);
+}
+
+.chip-agile {
+  background: var(--agile);
 }
 
 .customise {
@@ -398,6 +404,30 @@ td {
   border-color: rgba(31, 122, 170, 0.24);
   background: var(--day-soft);
   color: #0b5f8b;
+}
+
+.shift.morning {
+  display: grid;
+  gap: 4px;
+  border-color: rgba(31, 122, 170, 0.24);
+  background: var(--day-soft);
+  color: #0b5f8b;
+}
+
+.shift.morning span:first-child {
+  color: #23475c;
+}
+
+.shift.agile {
+  display: grid;
+  gap: 4px;
+  border-color: rgba(71, 103, 125, 0.24);
+  background: var(--agile-soft);
+  color: #315064;
+}
+
+.shift.agile span:last-child {
+  color: #47677d;
 }
 
 .shift.night {

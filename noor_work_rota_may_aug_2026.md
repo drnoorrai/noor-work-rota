@@ -26,7 +26,7 @@
 | **Jul 13–19** | ⚪ Recovery | ⚪ Recovery | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
 | **Jul 20–26** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
 | **Jul 27–Aug 2** | 🟦 09–17 | 🟦 09–17 | 🟦 Carlton Parade 09–13 | 🟨 Green Parks 13–17 | 🟧 Agile 09–17 | ⚪ Off | ⚪ Off |
-| **Aug 3–9** | ⚪ Bank Holiday / Off | 🟫 Night | 🟫 Night | ⚪ Recovery | ⚪ Recovery | ⚪ Off | ⚪ Off |
+| **Aug 3–9** | 🟫 Night | 🟫 Night | 🟫 Night | ⚪ Recovery | ⚪ Recovery | ⚪ Off | ⚪ Off |
 
 ## Shareable Summary
 
